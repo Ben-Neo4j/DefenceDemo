@@ -1,0 +1,57 @@
+Rank,Abbreviation,Service
+Private,PTE,Army
+Lance Corporal,LCPL,Army
+Corporal,CPL,Army
+Sergeant,SGT,Army
+Staff Sergeant,SSGT ,Army
+Warrant Officer Class Two,WO2,Army
+Warrant Officer Class One,WO1,Army
+Regimental Sergeant Major of the Army,RSM-A,Army
+Officer Cadet,OCDT,Army
+2nd Lieutenant,2LT,Army
+Lieutenant,LT,Army
+Captain,CAPT,Army
+Major,MAJ,Army
+Lieutenant Colonel,LTCOL,Army
+Colonel,COL,Army
+Brigadier,BRIG,Army
+Major General,MAJGEN,Army
+Lieutenant General,LTGEN,Army
+General,GEN,Army
+Aircraftman / Aircraftwoman,AC / ACW ,RAAF
+Leading Aircraftman / Aircraftwoman,LAC / LACW,RAAF
+Corporal,CPL,RAAF
+Sergeant,SGT,RAAF
+Flight Sergeant,FSGT,RAAF
+Warrant Officer,WOFF,RAAF
+Warrant Officer of the Air Force,WOFF-AF ,RAAF
+Officer Cadet,OFFCDT ,RAAF
+Pilot Officer,PLTOFF,RAAF
+Flying Officer,FLGOFF,RAAF
+Flight Lieutenant,FLTLT,RAAF
+Squadron Leader,SQNLDR,RAAF
+Wing Commander,WGCDR,RAAF
+Group Captain,GPCAPT,RAAF
+Air Commodore,AIRCDRE,RAAF
+Air Vice-Marshal,AVM,RAAF
+Air Marshal,AIRMSHL,RAAF
+Air Chief Marshal,ACM,RAAF
+Seaman,SMN,RAN
+Able Seaman,AB,RAN
+Leading Seaman,LS,RAN
+Petty Officer,PO,RAN
+Chief Petty Officer,CPO,RAN
+Warrant Officer,WO,RAN
+Warrant Officer of the Navy,WO-N,RAN
+Midshipman,MIDN,RAN
+Acting Sub Lieutenant,SBLT,RAN
+Sub Lieutenant,SBLT,RAN
+Lieutenant,LEUT,RAN
+Lieutenant Commander,LCDR,RAN
+Chaplain,CHAP,RAN
+Commander,CMDR,RAN
+Captain,CAPT,RAN
+Commodore,CDRE,RAN
+Rear Admiral,RADM,RAN
+Vice Admiral,VADM,RAN
+Admiral,ADML,RAN
