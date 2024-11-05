@@ -1,0 +1,34 @@
+Category ,Description
+Fraud,Credit Card or Cheque
+Fraud,Deception
+Fraud,Entitlement
+Fraud,Loss or Theft
+Fraud,Misuse Commonwealth Property
+Fraud,Unethical Conduct
+Other,Information Request
+Other,Misconduct
+Other,Work Health & Safety
+General Discipline,Absence from Duty
+General Discipline,Absence Without Leave
+General Discipline,Acts Intended to Cause Injury
+General Discipline,Damage to Property
+General Discipline,Dangerous/Negligent Acts
+General Discipline,Harassment & Threatening Behavior
+General Discipline,Illicit Drug Offences
+General Discipline,Miscellaneous Offences
+General Discipline,"Mutiny, Desertion, Unauth. Abs."
+General Discipline,Offences against Justice
+General Discipline,Public Order Offences
+General Discipline,Road Traffic/Motor Vehicle
+General Discipline,"Robbery, Extortion"
+General Discipline,Sexual Assault and Related Offences
+General Discipline,Sudden Death and Wounded in Action
+General Discipline,"Theft, Lost or Found Property"
+General Discipline,Unlawful Entry with Intent
+Security,Disclosure
+Security,Data Handling/Transport
+Security,Non-ICT Equip Misuse
+Security,Lost/Stolen Non-ICT Equipment
+Security,Unauthorized Access Data
+Security,Physical
+Security,"Weapons, Explosives & Controlled Items"
