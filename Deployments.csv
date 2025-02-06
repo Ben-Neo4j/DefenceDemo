@@ -1,0 +1,1001 @@
+personnel_id,name,start_date,end_date
+13-6199397,Operation Resolute,01/01/2006,Current
+43-1502722,Operation Anode,02/01/2003,04/02/2017
+02-5555461,Operation Sumatra Assist,03/01/2004,05/02/2005
+02-4265351,Operation Pacific Assist,04/01/2011,Current
+95-0930933,Operation Manitou,05/01/2014,Current
+56-9617606,Operation Quickstep,06/01/2006,08/02/2006
+64-8870965,Operation Helpem Fren,07/01/2003,09/02/2017
+15-3140135,Operation Resolute,08/01/2006,Current
+23-6312765,Operation Anode,09/01/2003,11/02/2017
+94-7721767,Operation Sumatra Assist,10/01/2004,12/02/2005
+20-6820962,Operation Pacific Assist,11/01/2011,Current
+62-6318337,Operation Manitou,12/01/2014,Current
+09-6013429,Operation Quickstep,13/01/2006,15/02/2006
+64-9354649,Operation Helpem Fren,14/01/2003,16/02/2017
+67-3071202,Operation Resolute,15/01/2006,Current
+28-9912806,Operation Anode,16/01/2003,18/02/2017
+39-7403341,Operation Sumatra Assist,17/01/2004,19/02/2005
+89-6954193,Operation Pacific Assist,18/01/2011,Current
+20-8512936,Operation Manitou,19/01/2014,Current
+44-1920998,Operation Quickstep,20/01/2006,22/02/2006
+07-9498668,Operation Helpem Fren,21/01/2003,23/02/2017
+66-4911899,Operation Resolute,22/01/2006,Current
+36-7360640,Operation Anode,23/01/2003,25/02/2017
+99-6163623,Operation Sumatra Assist,24/01/2004,26/02/2005
+15-1369458,Operation Pacific Assist,25/01/2011,Current
+90-7077960,Operation Manitou,26/01/2014,Current
+36-1079541,Operation Quickstep,27/01/2006,01/03/2006
+06-4124741,Operation Resolute,28/01/2003,02/03/2017
+70-2812540,Operation Anode,29/01/2006,Current
+67-2704569,Operation Sumatra Assist,30/01/2003,04/03/2017
+36-4030039,Operation Pacific Assist,31/01/2004,05/03/2005
+29-6451439,Operation Manitou,01/02/2011,Current
+10-2160714,Operation Quickstep,02/02/2014,Current
+44-3539704,Operation Helpem Fren,03/02/2006,05/03/2006
+38-8566209,Operation Resolute,04/02/2003,06/03/2017
+76-4274499,Operation Anode,05/02/2006,Current
+67-8787698,Operation Sumatra Assist,06/02/2003,08/03/2017
+45-9007309,Operation Pacific Assist,07/02/2004,09/03/2005
+74-3133549,Operation Manitou,08/02/2011,Current
+78-1889680,Operation Quickstep,09/02/2014,Current
+01-0053872,Operation Helpem Fren,10/02/2006,12/03/2006
+88-0904686,Operation Resolute,11/02/2003,13/03/2017
+33-5760959,Operation Anode,12/02/2006,Current
+70-9022698,Operation Sumatra Assist,13/02/2003,15/03/2017
+14-6907746,Operation Pacific Assist,14/02/2004,16/03/2005
+87-2547822,Operation Manitou,15/02/2011,Current
+20-9900225,Operation Quickstep,16/02/2014,Current
+35-2220229,Operation Helpem Fren,17/02/2006,19/03/2006
+13-6513552,Operation Resolute,18/02/2003,20/03/2017
+94-6150059,Operation Anode,19/02/2006,Current
+01-5513859,Operation Sumatra Assist,20/02/2003,22/03/2017
+44-5091499,Operation Pacific Assist,21/02/2004,23/03/2005
+20-3058943,Operation Manitou,22/02/2011,Current
+23-6677808,Operation Quickstep,23/02/2014,Current
+99-0367146,Operation Resolute,24/02/2006,26/03/2006
+93-5225247,Operation Anode,25/02/2003,27/03/2017
+95-4542421,Operation Sumatra Assist,26/02/2006,Current
+52-1122838,Operation Pacific Assist,27/02/2003,29/03/2017
+43-1193222,Operation Manitou,28/02/2004,30/03/2005
+33-0094668,Operation Quickstep,01/03/2011,Current
+27-0652637,Operation Helpem Fren,02/03/2014,Current
+00-4199758,Operation Resolute,03/03/2006,02/04/2006
+16-1494568,Operation Anode,01/03/2003,03/04/2017
+08-7149838,Operation Sumatra Assist,02/03/2006,Current
+66-2915041,Operation Pacific Assist,03/03/2003,05/04/2017
+58-7618165,Operation Manitou,04/03/2004,06/04/2005
+82-6374654,Operation Quickstep,05/03/2011,Current
+15-1165683,Operation Helpem Fren,06/03/2014,Current
+36-2849426,Operation Resolute,07/03/2006,09/04/2006
+93-3131785,Operation Anode,08/03/2003,10/04/2017
+87-5919228,Operation Sumatra Assist,09/03/2006,Current
+07-4906354,Operation Pacific Assist,10/03/2003,12/04/2017
+99-1670063,Operation Manitou,11/03/2004,13/04/2005
+52-3715329,Operation Quickstep,12/03/2011,Current
+58-4764835,Operation Helpem Fren,13/03/2014,Current
+19-3515633,Operation Resolute,14/03/2006,16/04/2006
+55-2578086,Operation Anode,15/03/2003,17/04/2017
+64-1616446,Operation Sumatra Assist,16/03/2006,Current
+00-8668806,Operation Pacific Assist,17/03/2003,19/04/2017
+44-1701341,Operation Manitou,18/03/2004,20/04/2005
+47-8255805,Operation Quickstep,19/03/2011,Current
+21-1766254,Operation Resolute,20/03/2014,Current
+36-6116726,Operation Anode,21/03/2006,23/04/2006
+38-4877833,Operation Sumatra Assist,22/03/2003,24/04/2017
+11-3427193,Operation Pacific Assist,23/03/2006,Current
+98-3529131,Operation Manitou,24/03/2003,26/04/2017
+74-2792439,Operation Quickstep,25/03/2004,27/04/2005
+84-6396381,Operation Helpem Fren,26/03/2011,Current
+15-7173203,Operation Resolute,27/03/2014,Current
+64-1300488,Operation Anode,28/03/2006,30/04/2006
+91-3276008,Operation Sumatra Assist,29/03/2003,01/05/2017
+39-0973138,Operation Pacific Assist,30/03/2006,Current
+05-9218728,Operation Manitou,31/03/2003,03/05/2017
+56-1864126,Operation Quickstep,01/04/2004,03/05/2005
+86-2834715,Operation Helpem Fren,02/04/2011,Current
+57-0055006,Operation Resolute,03/04/2014,Current
+73-0398331,Operation Anode,04/04/2006,06/05/2006
+99-6519064,Operation Sumatra Assist,05/04/2003,07/05/2017
+19-9003188,Operation Pacific Assist,06/04/2006,Current
+79-4082764,Operation Manitou,07/04/2003,09/05/2017
+00-8363474,Operation Quickstep,08/04/2004,10/05/2005
+49-3561121,Operation Helpem Fren,09/04/2011,Current
+34-8865113,Operation Resolute,10/04/2014,Current
+64-9770525,Operation Anode,11/04/2006,13/05/2006
+53-1258162,Operation Sumatra Assist,12/04/2003,14/05/2017
+35-4267191,Operation Pacific Assist,13/04/2006,Current
+61-2372634,Operation Manitou,14/04/2003,16/05/2017
+78-9873552,Operation Quickstep,15/04/2004,17/05/2005
+64-0351836,Operation Resolute,16/04/2011,Current
+49-0729701,Operation Anode,17/04/2014,Current
+12-5347438,Operation Sumatra Assist,18/04/2006,20/05/2006
+72-6645722,Operation Pacific Assist,19/04/2003,21/05/2017
+08-8503359,Operation Manitou,20/04/2006,Current
+17-5812294,Operation Quickstep,21/04/2003,23/05/2017
+07-3542801,Operation Helpem Fren,22/04/2004,24/05/2005
+02-0470256,Operation Resolute,23/04/2011,Current
+22-6044800,Operation Anode,24/04/2014,Current
+80-5794146,Operation Sumatra Assist,25/04/2006,27/05/2006
+43-5969696,Operation Pacific Assist,26/04/2003,28/05/2017
+22-0800779,Operation Manitou,27/04/2006,Current
+23-0353698,Operation Quickstep,28/04/2003,30/05/2017
+30-7509005,Operation Helpem Fren,29/04/2004,31/05/2005
+23-0904640,Operation Resolute,30/04/2011,Current
+10-0669923,Operation Anode,01/05/2014,Current
+18-0335977,Operation Sumatra Assist,01/05/2006,03/06/2006
+72-4222158,Operation Pacific Assist,02/05/2003,04/06/2017
+73-1592954,Operation Manitou,03/05/2006,Current
+38-8337924,Operation Quickstep,04/05/2003,06/06/2017
+35-4259628,Operation Helpem Fren,05/05/2004,07/06/2005
+67-1645735,Operation Resolute,06/05/2011,Current
+50-3917712,Operation Anode,07/05/2014,Current
+84-0613941,Operation Sumatra Assist,08/05/2006,10/06/2006
+73-9189607,Operation Pacific Assist,09/05/2003,11/06/2017
+27-6876819,Operation Manitou,10/05/2006,Current
+88-6053614,Operation Quickstep,11/05/2003,13/06/2017
+16-5197940,Operation Resolute,12/05/2004,14/06/2005
+41-4602289,Operation Anode,13/05/2011,Current
+85-6970809,Operation Sumatra Assist,14/05/2014,Current
+62-5061720,Operation Pacific Assist,15/05/2006,17/06/2006
+43-5804655,Operation Manitou,16/05/2003,18/06/2017
+36-0802866,Operation Quickstep,17/05/2006,Current
+50-4821323,Operation Helpem Fren,18/05/2003,20/06/2017
+09-6872591,Operation Resolute,19/05/2004,21/06/2005
+10-4327544,Operation Anode,20/05/2011,Current
+06-8316524,Operation Sumatra Assist,21/05/2014,Current
+27-2337471,Operation Pacific Assist,22/05/2006,24/06/2006
+03-0655446,Operation Manitou,23/05/2003,25/06/2017
+99-5082803,Operation Quickstep,24/05/2006,Current
+74-7873094,Operation Helpem Fren,25/05/2003,27/06/2017
+38-5577382,Operation Resolute,26/05/2004,28/06/2005
+37-4931397,Operation Anode,27/05/2011,Current
+70-5583326,Operation Sumatra Assist,28/05/2014,Current
+63-4096414,Operation Pacific Assist,29/05/2006,01/07/2006
+90-3081508,Operation Manitou,30/05/2003,02/07/2017
+69-4477691,Operation Quickstep,31/05/2006,Current
+94-6694254,Operation Helpem Fren,01/06/2003,03/07/2017
+04-4718908,Operation Resolute,02/06/2004,04/07/2005
+49-2608963,Operation Anode,03/06/2011,Current
+65-9238552,Operation Sumatra Assist,04/06/2014,Current
+32-4086210,Operation Pacific Assist,05/06/2006,07/07/2006
+23-5098665,Operation Manitou,06/06/2003,08/07/2017
+78-4606796,Operation Quickstep,07/06/2006,Current
+85-6997644,Operation Resolute,08/06/2003,10/07/2017
+39-1614747,Operation Anode,09/06/2004,11/07/2005
+15-0595423,Operation Sumatra Assist,10/06/2011,Current
+99-3368700,Operation Pacific Assist,11/06/2014,Current
+16-6903239,Operation Manitou,12/06/2006,14/07/2006
+24-4837466,Operation Quickstep,13/06/2003,15/07/2017
+41-4032476,Operation Helpem Fren,14/06/2006,Current
+26-1538768,Operation Resolute,15/06/2003,17/07/2017
+91-4169690,Operation Anode,16/06/2004,18/07/2005
+83-2836977,Operation Sumatra Assist,17/06/2011,Current
+86-2956330,Operation Pacific Assist,18/06/2014,Current
+48-8345089,Operation Manitou,19/06/2006,21/07/2006
+57-4716893,Operation Quickstep,20/06/2003,22/07/2017
+06-5698731,Operation Helpem Fren,21/06/2006,Current
+78-2067274,Operation Resolute,22/06/2003,24/07/2017
+12-1792527,Operation Anode,23/06/2004,25/07/2005
+45-0536716,Operation Sumatra Assist,24/06/2011,Current
+82-7311220,Operation Pacific Assist,25/06/2014,Current
+05-6872216,Operation Manitou,26/06/2006,28/07/2006
+30-3528843,Operation Quickstep,27/06/2003,29/07/2017
+89-4258411,Operation Helpem Fren,28/06/2006,Current
+44-3634831,Operation Resolute,29/06/2003,31/07/2017
+88-3775333,Operation Anode,30/06/2004,01/08/2005
+59-3063914,Operation Sumatra Assist,01/07/2011,Current
+30-3091047,Operation Pacific Assist,01/07/2014,Current
+10-5812976,Operation Manitou,02/07/2006,04/08/2006
+63-5334952,Operation Quickstep,03/07/2003,05/08/2017
+90-4251319,Operation Resolute,04/07/2006,Current
+46-0770690,Operation Anode,05/07/2003,07/08/2017
+65-1107729,Operation Sumatra Assist,06/07/2004,08/08/2005
+89-0211246,Operation Pacific Assist,07/07/2011,Current
+31-5757882,Operation Manitou,08/07/2014,Current
+42-5184011,Operation Quickstep,09/07/2006,11/08/2006
+01-9228702,Operation Helpem Fren,10/07/2003,12/08/2017
+01-3398800,Operation Resolute,11/07/2006,Current
+60-0317847,Operation Anode,12/07/2003,14/08/2017
+04-6317962,Operation Sumatra Assist,13/07/2004,15/08/2005
+23-9830535,Operation Pacific Assist,14/07/2011,Current
+04-7998594,Operation Manitou,15/07/2014,Current
+82-0012975,Operation Quickstep,16/07/2006,18/08/2006
+38-6413110,Operation Helpem Fren,17/07/2003,19/08/2017
+64-8765851,Operation Resolute,18/07/2006,Current
+54-6177756,Operation Anode,19/07/2003,21/08/2017
+18-0932365,Operation Sumatra Assist,20/07/2004,22/08/2005
+52-5529092,Operation Pacific Assist,21/07/2011,Current
+22-5274679,Operation Manitou,22/07/2014,Current
+56-5263326,Operation Quickstep,23/07/2006,25/08/2006
+07-2922908,Operation Helpem Fren,24/07/2003,26/08/2017
+30-4001207,Operation Resolute,25/07/2006,Current
+15-0528487,Operation Anode,26/07/2003,28/08/2017
+95-7625228,Operation Sumatra Assist,27/07/2004,29/08/2005
+10-0210356,Operation Pacific Assist,28/07/2011,Current
+44-4732690,Operation Manitou,29/07/2014,Current
+26-3080267,Operation Quickstep,30/07/2006,01/09/2006
+00-6878780,Operation Resolute,31/07/2003,02/09/2017
+89-4667193,Operation Anode,01/08/2006,Current
+18-1539373,Operation Sumatra Assist,02/08/2003,04/09/2017
+66-3758269,Operation Pacific Assist,03/08/2004,05/09/2005
+31-8030746,Operation Manitou,04/08/2011,Current
+74-2535535,Operation Quickstep,05/08/2014,Current
+67-2212416,Operation Helpem Fren,06/08/2006,08/09/2006
+48-2310817,Operation Resolute,07/08/2003,09/09/2017
+69-0638090,Operation Anode,08/08/2006,Current
+25-9502381,Operation Sumatra Assist,09/08/2003,11/09/2017
+17-7045451,Operation Pacific Assist,10/08/2004,12/09/2005
+48-3693330,Operation Manitou,11/08/2011,Current
+03-6116904,Operation Quickstep,12/08/2014,Current
+64-0407115,Operation Helpem Fren,13/08/2006,15/09/2006
+06-6252346,Operation Resolute,14/08/2003,16/09/2017
+49-1067763,Operation Anode,15/08/2006,Current
+53-6206117,Operation Sumatra Assist,16/08/2003,18/09/2017
+07-2340080,Operation Pacific Assist,17/08/2004,19/09/2005
+04-9357646,Operation Manitou,18/08/2011,Current
+08-0952906,Operation Quickstep,19/08/2014,Current
+37-2934366,Operation Helpem Fren,20/08/2006,22/09/2006
+20-9664340,Operation Resolute,21/08/2003,23/09/2017
+86-2968291,Operation Anode,22/08/2006,Current
+42-4151844,Operation Sumatra Assist,23/08/2003,25/09/2017
+19-1939627,Operation Pacific Assist,24/08/2004,26/09/2005
+39-7209314,Operation Manitou,25/08/2011,Current
+35-4506892,Operation Quickstep,26/08/2014,Current
+24-1593469,Operation Resolute,27/08/2006,29/09/2006
+42-3510597,Operation Anode,28/08/2003,30/09/2017
+56-7422762,Operation Sumatra Assist,29/08/2006,Current
+52-6435245,Operation Pacific Assist,30/08/2003,02/10/2017
+62-6242121,Operation Manitou,31/08/2004,03/10/2005
+13-9960354,Operation Quickstep,01/09/2011,Current
+55-3483174,Operation Helpem Fren,02/09/2014,Current
+25-0846844,Operation Resolute,03/09/2006,05/10/2006
+16-4692869,Operation Anode,04/09/2003,06/10/2017
+06-8996234,Operation Sumatra Assist,05/09/2006,Current
+74-7481786,Operation Pacific Assist,06/09/2003,08/10/2017
+25-0902197,Operation Manitou,07/09/2004,09/10/2005
+43-7867613,Operation Quickstep,08/09/2011,Current
+31-1121105,Operation Helpem Fren,09/09/2014,Current
+64-2818802,Operation Resolute,10/09/2006,12/10/2006
+03-4065249,Operation Anode,11/09/2003,13/10/2017
+74-5554719,Operation Sumatra Assist,12/09/2006,Current
+61-6137907,Operation Pacific Assist,13/09/2003,15/10/2017
+64-0083497,Operation Manitou,14/09/2004,16/10/2005
+16-1097308,Operation Quickstep,15/09/2011,Current
+27-3079445,Operation Helpem Fren,16/09/2014,Current
+83-7107230,Operation Resolute,17/09/2006,19/10/2006
+65-7854495,Operation Anode,18/09/2003,20/10/2017
+01-8930222,Operation Sumatra Assist,19/09/2006,Current
+11-4010646,Operation Pacific Assist,20/09/2003,22/10/2017
+81-9642489,Operation Manitou,21/09/2004,23/10/2005
+80-3194370,Operation Quickstep,22/09/2011,Current
+94-2109547,Operation Resolute,23/09/2014,Current
+61-5829796,Operation Anode,24/09/2006,26/10/2006
+24-6180641,Operation Sumatra Assist,25/09/2003,27/10/2017
+26-5674833,Operation Pacific Assist,26/09/2006,Current
+63-1975230,Operation Manitou,27/09/2003,29/10/2017
+34-1370470,Operation Quickstep,28/09/2004,30/10/2005
+86-5156347,Operation Helpem Fren,29/09/2011,Current
+87-7525846,Operation Resolute,30/09/2014,Current
+60-8043044,Operation Anode,01/10/2006,02/11/2006
+04-5759256,Operation Sumatra Assist,01/10/2003,03/11/2017
+06-5223952,Operation Pacific Assist,02/10/2006,Current
+21-7087011,Operation Manitou,03/10/2003,05/11/2017
+84-0046634,Operation Quickstep,04/10/2004,06/11/2005
+03-6180683,Operation Helpem Fren,05/10/2011,Current
+41-2249396,Operation Resolute,06/10/2014,Current
+44-2885998,Operation Anode,07/10/2006,09/11/2006
+12-5192571,Operation Sumatra Assist,08/10/2003,10/11/2017
+63-0291650,Operation Pacific Assist,09/10/2006,Current
+08-1396944,Operation Manitou,10/10/2003,12/11/2017
+09-4061315,Operation Quickstep,11/10/2004,13/11/2005
+84-1788369,Operation Helpem Fren,12/10/2011,Current
+34-0804578,Operation Resolute,13/10/2014,Current
+95-0401811,Operation Anode,14/10/2006,16/11/2006
+65-7042143,Operation Sumatra Assist,15/10/2003,17/11/2017
+28-5032202,Operation Pacific Assist,16/10/2006,Current
+12-2830399,Operation Manitou,17/10/2003,19/11/2017
+26-8371346,Operation Quickstep,18/10/2004,20/11/2005
+50-0805569,Operation Resolute,19/10/2011,Current
+06-9701375,Operation Anode,20/10/2014,Current
+93-9540666,Operation Sumatra Assist,21/10/2006,23/11/2006
+94-2491476,Operation Pacific Assist,22/10/2003,24/11/2017
+62-2781512,Operation Manitou,23/10/2006,Current
+73-7929213,Operation Quickstep,24/10/2003,26/11/2017
+66-7157420,Operation Helpem Fren,25/10/2004,27/11/2005
+63-8651123,Operation Resolute,26/10/2011,Current
+51-0145259,Operation Anode,27/10/2014,Current
+37-8206426,Operation Sumatra Assist,28/10/2006,30/11/2006
+21-1961249,Operation Pacific Assist,29/10/2003,01/12/2017
+33-9872743,Operation Manitou,30/10/2006,Current
+77-6269310,Operation Quickstep,31/10/2003,03/12/2017
+07-6056482,Operation Helpem Fren,01/11/2004,03/12/2005
+33-2199050,Operation Resolute,02/11/2011,Current
+08-2616725,Operation Anode,03/11/2014,Current
+63-8993210,Operation Sumatra Assist,04/11/2006,06/12/2006
+56-6147620,Operation Pacific Assist,05/11/2003,07/12/2017
+04-2999152,Operation Manitou,06/11/2006,Current
+11-3825027,Operation Quickstep,07/11/2003,09/12/2017
+31-4002719,Operation Helpem Fren,08/11/2004,10/12/2005
+81-9552117,Operation Resolute,09/11/2011,Current
+43-3930318,Operation Anode,10/11/2014,Current
+38-1170334,Operation Sumatra Assist,11/11/2006,13/12/2006
+89-2343060,Operation Pacific Assist,12/11/2003,14/12/2017
+59-1747015,Operation Manitou,13/11/2006,Current
+61-5460447,Operation Quickstep,14/11/2003,16/12/2017
+96-1993164,Operation Resolute,15/11/2004,17/12/2005
+86-1368126,Operation Anode,16/11/2011,Current
+41-1458749,Operation Sumatra Assist,17/11/2014,Current
+02-7112823,Operation Pacific Assist,18/11/2006,20/12/2006
+14-1611988,Operation Manitou,19/11/2003,21/12/2017
+14-9301663,Operation Quickstep,20/11/2006,Current
+59-7035894,Operation Helpem Fren,21/11/2003,23/12/2017
+48-1344344,Operation Resolute,22/11/2004,24/12/2005
+92-7328382,Operation Anode,23/11/2011,Current
+52-6654463,Operation Sumatra Assist,24/11/2014,Current
+23-0782844,Operation Pacific Assist,25/11/2006,27/12/2006
+27-6904650,Operation Resolute,26/11/2006,Current
+04-2161220,Operation Accordion,27/11/2014,Current
+03-8543819,Operation Spitfire,28/11/1999,30/12/1999
+53-6981952,Operation Sumatra Assist,29/11/2004,31/12/2005
+07-1113650,Operation Pacific Assist,30/11/2011,Current
+60-1627525,Operation Slipper,01/12/2001,02/01/2015
+80-7920797,Operation Catalyst,01/12/2003,03/01/2010
+81-2752401,Operation Quickstep,02/12/2006,04/01/2007
+96-7201464,Operation Resolute,03/12/2006,Current
+55-1221628,Operation Accordion,04/12/2014,Current
+49-3009345,Operation Spitfire,05/12/1999,07/01/2000
+55-0473078,Operation Sumatra Assist,06/12/2004,08/01/2006
+11-5007491,Operation Pacific Assist,07/12/2011,Current
+69-4802311,Operation Slipper,08/12/2001,10/01/2015
+18-1377352,Operation Catalyst,09/12/2003,11/01/2010
+26-7014353,Operation Quickstep,10/12/2006,12/01/2007
+62-2726205,Operation Resolute,11/12/2006,Current
+35-0645961,Operation Accordion,12/12/2014,Current
+78-1925475,Operation Spitfire,13/12/1999,15/01/2000
+39-5714613,Operation Sumatra Assist,14/12/2004,16/01/2006
+32-1284512,Operation Pacific Assist,15/12/2011,Current
+28-1623021,Operation Slipper,16/12/2001,18/01/2015
+40-4041172,Operation Catalyst,17/12/2003,19/01/2010
+78-3355025,Operation Quickstep,18/12/2006,20/01/2007
+86-2714182,Operation Resolute,19/12/2006,Current
+01-3680950,Operation Accordion,20/12/2014,Current
+68-3469712,Operation Spitfire,21/12/1999,23/01/2000
+49-5417263,Operation Sumatra Assist,22/12/2004,24/01/2006
+87-7980267,Operation Pacific Assist,23/12/2011,Current
+24-4668021,Operation Slipper,24/12/2001,26/01/2015
+31-2391946,Operation Catalyst,25/12/2003,27/01/2010
+37-3238544,Operation Quickstep,26/12/2006,28/01/2007
+30-8555138,Operation Resolute,27/12/2006,Current
+45-0506585,Operation Accordion,28/12/2014,Current
+24-5552545,Operation Spitfire,29/12/1999,31/01/2000
+23-6221073,Operation Sumatra Assist,30/12/2004,01/02/2006
+30-1831056,Operation Pacific Assist,31/12/2011,Current
+49-1642881,Operation Slipper,01/01/2001,03/02/2014
+68-1797480,Operation Catalyst,02/01/2003,04/02/2009
+21-8690927,Operation Quickstep,03/01/2006,05/02/2006
+72-5452710,Operation Resolute,04/01/2006,Current
+38-2980358,Operation Accordion,05/01/2014,Current
+22-2122053,Operation Spitfire,06/01/1999,08/02/1999
+60-1725427,Operation Sumatra Assist,07/01/2004,09/02/2005
+18-7498727,Operation Pacific Assist,08/01/2011,Current
+15-4159412,Operation Slipper,09/01/2001,11/02/2014
+93-1944895,Operation Catalyst,10/01/2003,12/02/2009
+94-1699715,Operation Quickstep,11/01/2006,13/02/2006
+18-3697728,Operation Resolute,12/01/2006,Current
+13-6194050,Operation Accordion,13/01/2014,Current
+78-3867261,Operation Spitfire,14/01/1999,16/02/1999
+84-9771457,Operation Sumatra Assist,15/01/2004,17/02/2005
+08-8972067,Operation Pacific Assist,16/01/2011,Current
+10-6173578,Operation Slipper,17/01/2001,19/02/2014
+47-5409347,Operation Catalyst,18/01/2003,20/02/2009
+68-4342262,Operation Quickstep,19/01/2006,21/02/2006
+58-1909951,Operation Resolute,20/01/2006,Current
+29-8203414,Operation Accordion,21/01/2014,Current
+57-3121506,Operation Spitfire,22/01/1999,24/02/1999
+77-1387202,Operation Sumatra Assist,23/01/2004,25/02/2005
+68-6970987,Operation Pacific Assist,24/01/2011,Current
+32-1345682,Operation Slipper,25/01/2001,27/02/2014
+67-3130995,Operation Catalyst,26/01/2003,28/02/2009
+08-8304214,Operation Quickstep,27/01/2006,01/03/2006
+71-1927957,Operation Resolute,28/01/2006,Current
+92-1856861,Operation Accordion,29/01/2014,Current
+99-3118684,Operation Spitfire,30/01/1999,04/03/1999
+04-5772276,Operation Sumatra Assist,31/01/2004,05/03/2005
+94-0787105,Operation Pacific Assist,01/02/2011,Current
+43-5840577,Operation Slipper,02/02/2001,04/03/2014
+18-3495016,Operation Catalyst,03/02/2003,05/03/2009
+45-4097848,Operation Quickstep,04/02/2006,06/03/2006
+17-6541564,Operation Resolute,05/02/2006,Current
+37-5890192,Operation Accordion,06/02/2014,Current
+07-8651653,Operation Spitfire,07/02/1999,09/03/1999
+73-1082324,Operation Sumatra Assist,08/02/2004,10/03/2005
+92-8342239,Operation Pacific Assist,09/02/2011,Current
+97-4028902,Operation Slipper,10/02/2001,12/03/2014
+01-0251025,Operation Catalyst,11/02/2003,13/03/2009
+94-1404649,Operation Quickstep,12/02/2006,14/03/2006
+00-7142512,Operation Resolute,13/02/2006,Current
+90-5347623,Operation Accordion,14/02/2014,Current
+24-3070316,Operation Spitfire,15/02/1999,17/03/1999
+41-1891698,Operation Sumatra Assist,16/02/2004,18/03/2005
+98-8865329,Operation Pacific Assist,17/02/2011,Current
+97-5420854,Operation Slipper,18/02/2001,20/03/2014
+00-0884264,Operation Catalyst,19/02/2003,21/03/2009
+11-0039114,Operation Quickstep,20/02/2006,22/03/2006
+76-7492123,Operation Resolute,21/02/2006,Current
+33-1151101,Operation Accordion,22/02/2014,Current
+29-1355064,Operation Spitfire,23/02/1999,25/03/1999
+67-3417765,Operation Sumatra Assist,24/02/2004,26/03/2005
+74-6179510,Operation Pacific Assist,25/02/2011,Current
+08-3144138,Operation Slipper,26/02/2001,28/03/2014
+40-8152992,Operation Catalyst,27/02/2003,29/03/2009
+28-1468289,Operation Quickstep,28/02/2006,30/03/2006
+45-2820507,Operation Resolute,01/03/2006,Current
+20-6175130,Operation Accordion,02/03/2014,Current
+49-3330663,Operation Spitfire,03/03/1999,02/04/1999
+82-8188103,Operation Sumatra Assist,01/03/2004,03/04/2005
+33-6664786,Operation Pacific Assist,02/03/2011,Current
+20-0911950,Operation Slipper,03/03/2001,05/04/2014
+16-9784239,Operation Catalyst,04/03/2003,06/04/2009
+83-6336637,Operation Quickstep,05/03/2006,07/04/2006
+03-1588123,Operation Resolute,06/03/2006,Current
+46-2240953,Operation Accordion,07/03/2014,Current
+45-1925923,Operation Spitfire,08/03/1999,10/04/1999
+97-3299940,Operation Sumatra Assist,09/03/2004,11/04/2005
+44-9120466,Operation Pacific Assist,10/03/2011,Current
+19-4683074,Operation Slipper,11/03/2001,13/04/2014
+21-4149563,Operation Catalyst,12/03/2003,14/04/2009
+86-7360760,Operation Quickstep,13/03/2006,15/04/2006
+78-2496701,Operation Resolute,14/03/2006,Current
+46-3729041,Operation Accordion,15/03/2014,Current
+27-9878238,Operation Spitfire,16/03/1999,18/04/1999
+47-6789945,Operation Sumatra Assist,17/03/2004,19/04/2005
+81-4930556,Operation Pacific Assist,18/03/2011,Current
+60-8767993,Operation Slipper,19/03/2001,21/04/2014
+41-1728220,Operation Catalyst,20/03/2003,22/04/2009
+34-3038474,Operation Quickstep,21/03/2006,23/04/2006
+14-5841443,Operation Resolute,22/03/2006,Current
+42-1624102,Operation Accordion,23/03/2014,Current
+56-8587084,Operation Spitfire,24/03/1999,26/04/1999
+67-4678682,Operation Sumatra Assist,25/03/2004,27/04/2005
+52-3167877,Operation Pacific Assist,26/03/2011,Current
+39-8953231,Operation Slipper,27/03/2001,29/04/2014
+58-1384871,Operation Catalyst,28/03/2003,30/04/2009
+52-9908840,Operation Quickstep,29/03/2006,01/05/2006
+49-0424941,Operation Resolute,30/03/1900,02/05/1900
+43-1017172,Operation Accordion,31/03/2006,Current
+43-1496417,Operation Spitfire,01/04/2014,Current
+13-2552509,Operation Sumatra Assist,02/04/1999,04/05/1999
+30-3210396,Operation Pacific Assist,03/04/2004,05/05/2005
+06-9109539,Operation Slipper,04/04/2011,Current
+91-1880023,Operation Catalyst,05/04/2001,07/05/2014
+56-1239648,Operation Quickstep,06/04/2003,08/05/2009
+68-1263142,Operation Resolute,07/04/2006,09/05/2006
+56-4229260,Operation Accordion,08/04/2006,Current
+18-9019270,Operation Spitfire,09/04/2014,Current
+94-4172376,Operation Sumatra Assist,10/04/1999,12/05/1999
+93-4318825,Operation Pacific Assist,11/04/2004,13/05/2005
+59-1015009,Operation Slipper,12/04/2011,Current
+99-6006776,Operation Catalyst,13/04/2001,15/05/2014
+16-0622621,Operation Quickstep,14/04/2003,16/05/2009
+32-4614314,Operation Resolute,15/04/2006,17/05/2006
+06-4300913,Operation Accordion,16/04/2006,Current
+83-8263346,Operation Spitfire,17/04/2014,Current
+09-0137405,Operation Sumatra Assist,18/04/1999,20/05/1999
+08-2751229,Operation Pacific Assist,19/04/2004,21/05/2005
+26-6288275,Operation Slipper,20/04/2011,Current
+60-2803315,Operation Catalyst,21/04/2001,23/05/2014
+97-6829631,Operation Quickstep,22/04/2003,24/05/2009
+68-2987099,Operation Resolute,23/04/2006,25/05/2006
+19-1882694,Operation Accordion,24/04/2006,Current
+70-2645132,Operation Spitfire,25/04/2014,Current
+40-7757127,Operation Sumatra Assist,26/04/1999,28/05/1999
+00-9860760,Operation Pacific Assist,27/04/2004,29/05/2005
+18-9396396,Operation Slipper,28/04/2011,Current
+10-7378259,Operation Catalyst,29/04/2001,31/05/2014
+18-3489523,Operation Quickstep,30/04/2003,01/06/2009
+29-5504481,Operation Resolute,01/05/2006,02/06/2006
+45-2378800,Operation Accordion,01/05/2006,Current
+79-6763078,Operation Spitfire,02/05/2014,Current
+29-0025559,Operation Sumatra Assist,03/05/1999,05/06/1999
+00-5627105,Operation Pacific Assist,04/05/2004,06/06/2005
+90-3389736,Operation Slipper,05/05/2011,Current
+29-4251081,Operation Catalyst,06/05/2001,08/06/2014
+49-1280000,Operation Quickstep,07/05/2003,09/06/2009
+75-1690776,Operation Resolute,08/05/2006,10/06/2006
+42-7632481,Operation Accordion,09/05/2006,Current
+10-5498614,Operation Spitfire,10/05/2014,Current
+99-2690295,Operation Sumatra Assist,11/05/1999,13/06/1999
+45-0406186,Operation Pacific Assist,12/05/2004,14/06/2005
+11-7096380,Operation Slipper,13/05/2011,Current
+27-0719328,Operation Catalyst,14/05/2001,16/06/2014
+51-2001466,Operation Quickstep,15/05/2003,17/06/2009
+36-7754943,Operation Resolute,16/05/2006,18/06/2006
+00-8328060,Operation Accordion,17/05/2006,Current
+66-5104437,Operation Spitfire,18/05/2014,Current
+88-4332175,Operation Sumatra Assist,19/05/1999,21/06/1999
+09-8796293,Operation Pacific Assist,20/05/2004,22/06/2005
+90-4409889,Operation Slipper,21/05/2011,Current
+93-1863849,Operation Catalyst,22/05/2001,24/06/2014
+76-7675536,Operation Quickstep,23/05/2003,25/06/2009
+90-0364332,Operation Resolute,24/05/2006,26/06/2006
+48-3027479,Operation Accordion,25/05/2006,Current
+81-2190699,Operation Spitfire,26/05/2014,Current
+59-5421337,Operation Sumatra Assist,27/05/1999,29/06/1999
+10-5186383,Operation Pacific Assist,28/05/2004,30/06/2005
+88-0680858,Operation Slipper,29/05/2011,Current
+66-4474557,Operation Catalyst,30/05/2001,02/07/2014
+24-7650179,Operation Quickstep,31/05/2003,03/07/2009
+07-7313200,Operation Resolute,01/06/2006,03/07/2006
+87-8704503,Operation Accordion,02/06/2006,Current
+20-7950653,Operation Spitfire,03/06/2014,Current
+80-7951138,Operation Sumatra Assist,04/06/1999,06/07/1999
+00-1771497,Operation Pacific Assist,05/06/2004,07/07/2005
+59-9140597,Operation Slipper,06/06/2011,Current
+15-2219143,Operation Catalyst,07/06/2001,09/07/2014
+59-7510232,Operation Quickstep,08/06/2003,10/07/2009
+41-7784931,Operation Resolute,09/06/2006,11/07/2006
+34-5207400,Operation Accordion,10/06/2006,Current
+65-5397556,Operation Spitfire,11/06/2014,Current
+08-4751149,Operation Sumatra Assist,12/06/1999,14/07/1999
+97-9510852,Operation Pacific Assist,13/06/2004,15/07/2005
+28-8042981,Operation Slipper,14/06/2011,Current
+52-2290374,Operation Catalyst,15/06/2001,17/07/2014
+82-6393856,Operation Quickstep,16/06/2003,18/07/2009
+59-8992067,Operation Resolute,17/06/2006,19/07/2006
+36-1437805,Operation Accordion,18/06/2006,Current
+96-3614464,Operation Spitfire,19/06/2014,Current
+40-2008454,Operation Sumatra Assist,20/06/1999,22/07/1999
+56-8583968,Operation Pacific Assist,21/06/2004,23/07/2005
+40-3145113,Operation Slipper,22/06/2011,Current
+67-3997297,Operation Catalyst,23/06/2001,25/07/2014
+58-5896594,Operation Quickstep,24/06/2003,26/07/2009
+69-6803067,Operation Resolute,25/06/2006,27/07/2006
+51-1608992,Operation Accordion,26/06/2006,Current
+83-4132642,Operation Spitfire,27/06/2014,Current
+70-9089087,Operation Sumatra Assist,28/06/1999,30/07/1999
+55-6095146,Operation Pacific Assist,29/06/2004,31/07/2005
+67-1930896,Operation Slipper,30/06/2011,Current
+31-4197012,Operation Catalyst,01/07/2001,02/08/2014
+02-9284867,Operation Quickstep,01/07/2003,03/08/2009
+06-6310613,Operation Resolute,02/07/2006,04/08/2006
+09-8418010,Operation Accordion,03/07/2006,Current
+65-0420669,Operation Spitfire,04/07/2014,Current
+82-8900942,Operation Sumatra Assist,05/07/1999,07/08/1999
+43-5618376,Operation Pacific Assist,06/07/2004,08/08/2005
+86-5471111,Operation Slipper,07/07/2011,Current
+91-8518210,Operation Catalyst,08/07/2001,10/08/2014
+65-5043924,Operation Quickstep,09/07/2003,11/08/2009
+52-7009404,Operation Resolute,10/07/2006,12/08/2006
+43-1583052,Operation Accordion,11/07/2006,Current
+02-8664907,Operation Spitfire,12/07/2014,Current
+20-1806942,Operation Sumatra Assist,13/07/1999,15/08/1999
+16-1611786,Operation Pacific Assist,14/07/2004,16/08/2005
+23-0848901,Operation Slipper,15/07/2011,Current
+62-2132282,Operation Catalyst,16/07/2001,18/08/2014
+56-7838083,Operation Quickstep,17/07/2003,19/08/2009
+61-8940156,Operation Resolute,18/07/2006,20/08/2006
+35-9304959,Operation Accordion,19/07/2006,Current
+29-8146637,Operation Spitfire,20/07/2014,Current
+20-1585352,Operation Sumatra Assist,21/07/1999,23/08/1999
+54-7212102,Operation Pacific Assist,22/07/2004,24/08/2005
+77-2704431,Operation Slipper,23/07/2011,Current
+14-1458897,Operation Catalyst,24/07/2001,26/08/2014
+89-8563786,Operation Quickstep,25/07/2003,27/08/2009
+58-7215193,Operation Resolute,26/07/2006,28/08/2006
+64-1148373,Operation Accordion,27/07/2006,Current
+03-2340168,Operation Spitfire,28/07/2014,Current
+09-5703994,Operation Sumatra Assist,29/07/1999,31/08/1999
+71-9143213,Operation Pacific Assist,30/07/2004,01/09/2005
+93-6767603,Operation Slipper,31/07/2011,Current
+67-5759570,Operation Catalyst,01/08/2001,03/09/2014
+38-2618559,Operation Quickstep,02/08/2003,04/09/2009
+24-2048822,Operation Resolute,03/08/2006,05/09/2006
+19-4668550,Operation Accordion,04/08/2006,Current
+93-5707108,Operation Spitfire,05/08/2014,Current
+21-5711085,Operation Sumatra Assist,06/08/1999,08/09/1999
+27-1853043,Operation Pacific Assist,07/08/2004,09/09/2005
+65-9236235,Operation Slipper,08/08/2011,Current
+07-7567576,Operation Catalyst,09/08/2001,11/09/2014
+72-7597933,Operation Quickstep,10/08/2003,12/09/2009
+14-2386410,Operation Resolute,11/08/2006,13/09/2006
+06-2442191,Operation Accordion,12/08/2006,Current
+23-6014295,Operation Spitfire,13/08/2014,Current
+92-1025073,Operation Sumatra Assist,14/08/1999,16/09/1999
+01-2766568,Operation Pacific Assist,15/08/2004,17/09/2005
+23-3472992,Operation Slipper,16/08/2011,Current
+10-3949549,Operation Catalyst,17/08/2001,19/09/2014
+05-8286064,Operation Quickstep,18/08/2003,20/09/2009
+92-3291242,Operation Resolute,19/08/2006,21/09/2006
+45-6101158,Operation Accordion,20/08/2006,Current
+39-8826085,Operation Spitfire,21/08/2014,Current
+83-3831503,Operation Sumatra Assist,22/08/1999,24/09/1999
+74-2978346,Operation Pacific Assist,23/08/2004,25/09/2005
+88-5024384,Operation Slipper,24/08/2011,Current
+82-3719458,Operation Catalyst,25/08/2001,27/09/2014
+97-4898634,Operation Quickstep,26/08/2003,28/09/2009
+87-3771960,Operation Resolute,27/08/2006,29/09/2006
+05-0476252,Operation Accordion,28/08/2006,Current
+41-4283638,Operation Spitfire,29/08/2014,Current
+33-4959786,Operation Sumatra Assist,30/08/1999,02/10/1999
+50-8833488,Operation Pacific Assist,31/08/2004,03/10/2005
+83-2513085,Operation Slipper,01/09/2011,Current
+23-7786962,Operation Catalyst,02/09/2001,04/10/2014
+94-8778376,Operation Quickstep,03/09/2003,05/10/2009
+04-4617480,Operation Resolute,04/09/2006,06/10/2006
+04-3596472,Operation Accordion,05/09/2006,Current
+72-8257231,Operation Spitfire,06/09/2014,Current
+93-7343269,Operation Sumatra Assist,07/09/1999,09/10/1999
+63-2982841,Operation Pacific Assist,08/09/2004,10/10/2005
+59-2725197,Operation Slipper,09/09/2011,Current
+71-7293295,Operation Catalyst,10/09/2001,12/10/2014
+15-1082714,Operation Quickstep,11/09/2003,13/10/2009
+65-8694349,Operation Resolute,12/09/2006,14/10/2006
+96-4932290,Operation Accordion,13/09/2006,Current
+50-6065226,Operation Spitfire,14/09/2014,Current
+03-9888734,Operation Sumatra Assist,15/09/1999,17/10/1999
+65-1356453,Operation Pacific Assist,16/09/2004,18/10/2005
+11-6968801,Operation Slipper,17/09/2011,Current
+41-7348076,Operation Catalyst,18/09/2001,20/10/2014
+68-9003076,Operation Quickstep,19/09/2003,21/10/2009
+87-3405924,Operation Resolute,20/09/2006,22/10/2006
+51-8125935,Operation Accordion,21/09/2006,Current
+93-6344337,Operation Spitfire,22/09/2014,Current
+35-7565504,Operation Sumatra Assist,23/09/1999,25/10/1999
+96-0580288,Operation Pacific Assist,24/09/2004,26/10/2005
+89-2360262,Operation Slipper,25/09/2011,Current
+70-6509416,Operation Catalyst,26/09/2001,28/10/2014
+61-9831853,Operation Quickstep,27/09/2003,29/10/2009
+63-1651056,Operation Resolute,28/09/2006,30/10/2006
+34-9762290,Operation Accordion,29/09/2006,Current
+91-1309160,Operation Spitfire,30/09/2014,Current
+49-6653536,Operation Sumatra Assist,01/10/1999,02/11/1999
+57-0946395,Operation Pacific Assist,01/10/2004,03/11/2005
+78-0826346,Operation Slipper,02/10/2011,Current
+99-7129768,Operation Catalyst,03/10/2001,05/11/2014
+15-3082340,Operation Quickstep,04/10/2003,06/11/2009
+79-4370801,Operation Resolute,05/10/2006,07/11/2006
+21-1937515,Operation Accordion,06/10/2006,Current
+68-6891894,Operation Spitfire,07/10/2014,Current
+80-3328214,Operation Resolute,08/10/2006,Current
+58-0369652,Operation Accordion,09/10/2014,Current
+48-6960136,Operation Aslan,10/10/2011,Current
+12-5241619,Operation Highroad,11/10/2014,13/11/2021
+69-7711375,Operation Augury,12/10/2017,Current
+29-5074257,Operation Astute,13/10/2006,15/11/2013
+52-6071312,Operation Anode,14/10/2003,16/11/2017
+31-3957221,Operation Spitfire,15/10/1999,17/11/1999
+31-2293300,Operation Sumatra Assist,16/10/2004,18/11/2005
+49-5725912,Operation Queensland Flood Assist,17/10/2011,19/11/2011
+65-0730149,Operation Slipper,18/10/2001,20/11/2014
+57-3774874,Operation Catalyst,19/10/2003,21/11/2009
+02-0795632,Operation Mazurka,20/10/1982,Current
+12-0068018,Operation Paladin,21/10/1956,Current
+57-8183641,Operation Solace,22/10/1993,24/11/1995
+93-2225857,Operation Spire,23/10/2004,25/11/2006
+08-2559144,Operation Bel Isi,24/10/1997,26/11/2003
+66-0859405,Operation Helpem Fren,25/10/2003,27/11/2017
+80-4765815,Operation Vic Fire Assist,26/10/2009,28/11/2009
+00-1905884,Operation Resolute,27/10/2006,Current
+76-9577150,Operation Accordion,28/10/2014,Current
+01-2380097,Operation Aslan,29/10/2011,Current
+71-3225118,Operation Highroad,30/10/2014,02/12/2021
+86-7328475,Operation Augury,31/10/2017,Current
+82-2538129,Operation Astute,01/11/2006,03/12/2013
+76-9105501,Operation Anode,02/11/2003,04/12/2017
+41-0608809,Operation Spitfire,03/11/1999,05/12/1999
+40-9097487,Operation Sumatra Assist,04/11/2004,06/12/2005
+78-3250640,Operation Queensland Flood Assist,05/11/2011,07/12/2011
+06-5570747,Operation Slipper,06/11/2001,08/12/2014
+26-5706125,Operation Catalyst,07/11/2003,09/12/2009
+02-8007813,Operation Mazurka,08/11/1982,Current
+47-3688859,Operation Paladin,09/11/1956,Current
+91-2444697,Operation Solace,10/11/1993,12/12/1995
+30-8012818,Operation Spire,11/11/2004,13/12/2006
+20-1813050,Operation Bel Isi,12/11/1997,14/12/2003
+41-4164200,Operation Helpem Fren,13/11/2003,15/12/2017
+19-1352358,Operation Vic Fire Assist,14/11/2009,16/12/2009
+16-9491842,Operation Resolute,15/11/2006,Current
+90-5739712,Operation Accordion,16/11/2014,Current
+98-3797615,Operation Aslan,17/11/2011,Current
+44-8579835,Operation Highroad,18/11/2014,20/12/2021
+00-8456629,Operation Augury,19/11/2017,Current
+56-7358944,Operation Astute,20/11/2006,22/12/2013
+61-5856024,Operation Anode,21/11/2003,23/12/2017
+44-4430854,Operation Spitfire,22/11/1999,24/12/1999
+57-2441269,Operation Sumatra Assist,23/11/2004,25/12/2005
+59-3339438,Operation Queensland Flood Assist,24/11/2011,26/12/2011
+19-1792606,Operation Slipper,25/11/2001,27/12/2014
+19-0931980,Operation Catalyst,26/11/2003,28/12/2009
+77-5465106,Operation Mazurka,27/11/1982,Current
+55-4300729,Operation Paladin,28/11/1956,Current
+40-5196115,Operation Solace,29/11/1993,31/12/1995
+56-6649469,Operation Spire,30/11/2004,01/01/2007
+70-0324853,Operation Bel Isi,01/12/1997,02/01/2004
+10-2551430,Operation Helpem Fren,01/12/2003,03/01/2018
+37-4859621,Operation Vic Fire Assist,02/12/2009,04/01/2010
+85-7595618,Operation Resolute,03/12/2006,Current
+06-6607094,Operation Accordion,04/12/2014,Current
+31-2314592,Operation Aslan,05/12/2011,Current
+68-9107583,Operation Highroad,06/12/2014,08/01/2022
+21-6850492,Operation Augury,07/12/2017,Current
+18-4604123,Operation Astute,08/12/2006,10/01/2014
+57-1762560,Operation Anode,09/12/2003,11/01/2018
+29-1227649,Operation Spitfire,10/12/1999,12/01/2000
+13-4886840,Operation Sumatra Assist,11/12/2004,13/01/2006
+10-9264975,Operation Queensland Flood Assist,12/12/2011,14/01/2012
+04-0930481,Operation Slipper,08/02/2001,12/06/2014
+51-5720317,Operation Catalyst,14/12/2003,16/01/2010
+00-0999990,Operation Mazurka,15/12/1982,Current
+65-7411875,Operation Paladin,16/12/1956,Current
+60-1430501,Operation Solace,17/12/1993,19/01/1996
+17-7753109,Operation Spire,18/12/2004,20/01/2007
+74-3384105,Operation Bel Isi,19/12/1997,21/01/2004
+88-9030625,Operation Helpem Fren,20/12/2003,22/01/2018
+61-8689975,Operation Vic Fire Assist,21/12/2009,23/01/2010
+97-7189301,Operation Resolute,22/12/2006,Current
+78-8615861,Operation Accordion,23/12/2014,Current
+63-4743824,Operation Aslan,24/12/2011,Current
+75-3283741,Operation Highroad,25/12/2014,27/01/2022
+33-3138337,Operation Augury,26/12/2017,Current
+60-5596278,Operation Astute,27/12/2006,29/01/2014
+87-2407439,Operation Anode,28/12/2003,30/01/2018
+34-5233481,Operation Spitfire,29/12/1999,31/01/2000
+25-9509113,Operation Sumatra Assist,30/12/2004,01/02/2006
+22-2747138,Operation Queensland Flood Assist,31/12/2011,02/02/2012
+80-6781749,Operation Slipper,08/02/2001,13/06/2014
+57-3788467,Operation Catalyst,02/01/2003,04/02/2009
+85-0048658,Operation Mazurka,03/01/1982,Current
+02-9589726,Operation Paladin,04/01/1956,Current
+53-1283193,Operation Solace,05/01/1993,07/02/1995
+44-7412350,Operation Spire,06/01/2004,08/02/2006
+77-1625856,Operation Bel Isi,07/01/1997,09/02/2003
+33-3084765,Operation Helpem Fren,08/01/2003,10/02/2017
+42-5346492,Operation Vic Fire Assist,09/01/2009,11/02/2009
+40-8708167,Operation Resolute,10/01/2006,Current
+78-3132320,Operation Accordion,11/01/2014,Current
+93-6142528,Operation Aslan,12/01/2011,Current
+07-8788555,Operation Highroad,13/01/2014,15/02/2021
+66-0759413,Operation Augury,14/01/2017,Current
+56-4330432,Operation Astute,15/01/2006,17/02/2013
+36-7746195,Operation Anode,16/01/2003,18/02/2017
+77-8068184,Operation Spitfire,17/01/1999,19/02/1999
+37-5192705,Operation Sumatra Assist,18/01/2004,20/02/2005
+89-1334576,Operation Queensland Flood Assist,19/01/2011,21/02/2011
+07-4939406,Operation Slipper,08/02/2001,14/06/2014
+56-9109231,Operation Catalyst,21/01/2003,23/02/2009
+40-2599974,Operation Mazurka,22/01/1982,Current
+73-8479572,Operation Paladin,23/01/1956,Current
+58-1281720,Operation Solace,24/01/1993,26/02/1995
+78-3253141,Operation Spire,25/01/2004,27/02/2006
+45-6834644,Operation Bel Isi,26/01/1997,28/02/2003
+23-1177039,Operation Helpem Fren,27/01/2003,01/03/2017
+11-0315520,Operation Vic Fire Assist,28/01/2009,02/03/2009
+52-4513997,Operation Resolute,29/01/2006,Current
+55-8232404,Operation Accordion,30/01/2014,Current
+47-9655383,Operation Aslan,31/01/2011,Current
+39-9838883,Operation Highroad,01/02/2014,03/03/2021
+86-5306160,Operation Augury,02/02/2017,Current
+24-6045094,Operation Astute,03/02/2006,05/03/2013
+88-8632255,Operation Anode,04/02/2003,06/03/2017
+87-9324314,Operation Spitfire,05/02/1999,07/03/1999
+97-3366835,Operation Sumatra Assist,06/02/2004,08/03/2005
+21-3615271,Operation Queensland Flood Assist,07/02/2011,09/03/2011
+78-9367160,Operation Slipper,08/02/2001,15/06/2014
+01-4871671,Operation Catalyst,09/02/2003,11/03/2009
+08-6307844,Operation Mazurka,10/02/1982,Current
+78-2999525,Operation Paladin,11/02/1956,Current
+09-8609665,Operation Solace,12/02/1993,14/03/1995
+09-4742548,Operation Spire,13/02/2004,15/03/2006
+86-5899340,Operation Bel Isi,14/02/1997,16/03/2003
+89-1238682,Operation Helpem Fren,15/02/2003,17/03/2017
+91-9580438,Operation Vic Fire Assist,16/02/2009,18/03/2009
+02-2553466,Operation Resolute,17/02/2006,Current
+43-5655638,Operation Accordion,18/02/2014,Current
+09-8083953,Operation Aslan,19/02/2011,Current
+34-5341976,Operation Highroad,20/02/2014,22/03/2021
+88-1692843,Operation Augury,21/02/2017,Current
+76-9314869,Operation Astute,22/02/2006,24/03/2013
+63-4665531,Operation Anode,23/02/2003,25/03/2017
+00-5841954,Operation Spitfire,24/02/1999,26/03/1999
+49-4806113,Operation Sumatra Assist,25/02/2004,27/03/2005
+03-0956395,Operation Queensland Flood Assist,26/02/2011,28/03/2011
+75-5764579,Operation Slipper,08/02/2001,16/06/2014
+61-1346201,Operation Catalyst,28/02/2003,30/03/2009
+19-9244765,Operation Mazurka,01/03/1982,Current
+72-3628085,Operation Paladin,01/03/1956,Current
+37-5197081,Operation Solace,03/03/1993,02/04/1995
+13-9283040,Operation Spire,01/03/2004,03/04/2006
+62-0418325,Operation Bel Isi,02/03/1997,04/04/2003
+82-1598213,Operation Helpem Fren,03/03/2003,05/04/2017
+83-1361669,Operation Vic Fire Assist,04/03/2009,06/04/2009
+97-1922063,Operation Resolute,05/03/2006,Current
+77-4414473,Operation Accordion,06/03/2014,Current
+15-0983659,Operation Aslan,07/03/2011,Current
+21-3100446,Operation Highroad,08/03/2014,10/04/2021
+38-6617444,Operation Augury,09/03/2017,Current
+56-7590035,Operation Astute,10/03/2006,12/04/2013
+26-6113601,Operation Anode,11/03/2003,13/04/2017
+49-0265434,Operation Spitfire,12/03/1999,14/04/1999
+33-3009672,Operation Sumatra Assist,13/03/2004,15/04/2005
+36-7778168,Operation Queensland Flood Assist,14/03/2011,16/04/2011
+21-9593501,Operation Slipper,08/02/2001,17/06/2014
+32-5608640,Operation Catalyst,16/03/2003,18/04/2009
+82-8357123,Operation Mazurka,17/03/1982,Current
+41-5674101,Operation Paladin,18/03/1956,Current
+70-7997725,Operation Solace,19/03/1993,21/04/1995
+60-3881459,Operation Spire,20/03/2004,22/04/2006
+73-3199113,Operation Bel Isi,21/03/1997,23/04/2003
+66-0240171,Operation Helpem Fren,22/03/2003,24/04/2017
+12-5273444,Operation Vic Fire Assist,23/03/2009,25/04/2009
+11-7254013,Operation Resolute,24/03/2006,Current
+40-7095375,Operation Accordion,25/03/2014,Current
+92-6031972,Operation Aslan,26/03/2011,Current
+27-1358316,Operation Highroad,27/03/2014,29/04/2021
+10-7162767,Operation Augury,28/03/2017,Current
+06-8341753,Operation Astute,29/03/2006,01/05/2013
+61-2228608,Operation Anode,30/03/2003,02/05/2017
+46-1961143,Operation Spitfire,31/03/1999,03/05/1999
+43-0856058,Operation Sumatra Assist,01/04/2004,03/05/2005
+79-4024119,Operation Queensland Flood Assist,02/04/2011,04/05/2011
+74-5035465,Operation Slipper,08/02/2001,18/06/2014
+27-7494022,Operation Catalyst,04/04/2003,06/05/2009
+16-6026240,Operation Mazurka,05/04/1982,Current
+49-4479475,Operation Paladin,06/04/1956,Current
+74-2231297,Operation Solace,07/04/1993,09/05/1995
+55-0602569,Operation Spire,08/04/2004,10/05/2006
+70-2474449,Operation Bel Isi,09/04/1997,11/05/2003
+39-9807716,Operation Helpem Fren,10/04/2003,12/05/2017
+37-0028253,Operation Vic Fire Assist,11/04/2009,13/05/2009
+28-3588470,Operation Resolute,12/04/2006,Current
+71-0674399,Operation Accordion,13/04/2014,Current
+93-0621251,Operation Aslan,14/04/2011,Current
+66-8464689,Operation Highroad,15/04/2014,17/05/2021
+03-8441394,Operation Augury,16/04/2017,Current
+70-3285504,Operation Astute,17/04/2006,19/05/2013
+33-2538544,Operation Anode,18/04/2003,20/05/2017
+14-1247089,Operation Spitfire,19/04/1999,21/05/1999
+61-7830494,Operation Sumatra Assist,20/04/2004,22/05/2005
+65-1429818,Operation Queensland Flood Assist,21/04/2011,23/05/2011
+16-4234469,Operation Slipper,08/02/2001,19/06/2014
+33-0754722,Operation Catalyst,23/04/2003,25/05/2009
+87-8265396,Operation Mazurka,24/04/1982,Current
+16-3233392,Operation Paladin,25/04/1956,Current
+45-6634021,Operation Solace,26/04/1993,28/05/1995
+08-8264564,Operation Spire,27/04/2004,29/05/2006
+22-8350447,Operation Bel Isi,28/04/1997,30/05/2003
+81-0262687,Operation Helpem Fren,29/04/2003,31/05/2017
+11-8372486,Operation Vic Fire Assist,30/04/2009,01/06/2009
+38-8860973,Operation Resolute,01/05/2006,Current
+98-0340480,Operation Accordion,01/05/2014,Current
+18-7492721,Operation Aslan,02/05/2011,Current
+05-7577700,Operation Highroad,03/05/2014,05/06/2021
+00-2882307,Operation Augury,04/05/2017,Current
+92-3026805,Operation Astute,05/05/2006,07/06/2013
+49-5014490,Operation Anode,06/05/2003,08/06/2017
+57-0382043,Operation Spitfire,07/05/1999,09/06/1999
+62-6052387,Operation Sumatra Assist,08/05/2004,10/06/2005
+92-0809361,Operation Queensland Flood Assist,09/05/2011,11/06/2011
+73-0598394,Operation Slipper,08/02/2001,14/09/2014
+99-1085544,Operation Catalyst,11/05/2003,13/06/2009
+66-8566034,Operation Mazurka,12/05/1982,Current
+94-5698589,Operation Paladin,13/05/1956,Current
+37-0256027,Operation Solace,14/05/1993,16/06/1995
+07-0317502,Operation Spire,15/05/2004,17/06/2006
+92-2728635,Operation Bel Isi,16/05/1997,18/06/2003
+33-6704422,Operation Helpem Fren,17/05/2003,19/06/2017
+87-7193017,Operation Vic Fire Assist,18/05/2009,20/06/2009
+68-3501031,Operation Resolute,19/05/2006,Current
+53-9145965,Operation Accordion,20/05/2014,Current
+31-4964640,Operation Aslan,21/05/2011,Current
+39-9729037,Operation Highroad,22/05/2014,24/06/2021
+09-4635021,Operation Augury,23/05/2017,Current
+44-0539887,Operation Astute,24/05/2006,26/06/2013
+28-1532509,Operation Anode,25/05/2003,27/06/2017
+48-1298040,Operation Spitfire,26/05/1999,28/06/1999
+54-2486859,Operation Sumatra Assist,27/05/2004,29/06/2005
+51-2626674,Operation Queensland Flood Assist,28/05/2011,30/06/2011
+11-0198036,Operation Slipper,08/02/2001,14/09/2014
+30-5073491,Operation Catalyst,30/05/2003,02/07/2009
+45-8630866,Operation Mazurka,31/05/1982,Current
+85-1459531,Operation Paladin,01/06/1956,Current
+35-7507240,Operation Solace,02/06/1993,04/07/1995
+25-0621206,Operation Spire,03/06/2004,05/07/2006
+88-9393296,Operation Bel Isi,04/06/1997,06/07/2003
+41-6335331,Operation Helpem Fren,05/06/2003,07/07/2017
+92-5709806,Operation Vic Fire Assist,06/06/2009,08/07/2009
+45-5649550,Operation Resolute,07/06/2006,Current
+67-7861761,Operation Accordion,08/06/2014,Current
+12-2806082,Operation Aslan,09/06/2011,Current
+35-3590976,Operation Highroad,10/06/2014,12/07/2021
+01-1813556,Operation Augury,11/06/2017,Current
+66-2857317,Operation Astute,12/06/2006,14/07/2013
+62-3899940,Operation Anode,13/06/2003,15/07/2017
+22-7091547,Operation Spitfire,14/06/1999,16/07/1999
+88-8923347,Operation Sumatra Assist,15/06/2004,17/07/2005
+42-9145238,Operation Queensland Flood Assist,16/06/2011,18/07/2011
+97-9344598,Operation Slipper,08/02/2001,14/09/2014
+59-1024214,Operation Catalyst,18/06/2003,20/07/2009
+11-1040889,Operation Mazurka,19/06/1982,Current
+51-5695603,Operation Paladin,20/06/1956,Current
+33-0458658,Operation Solace,21/06/1993,23/07/1995
+58-8975342,Operation Spire,22/06/2004,24/07/2006
+24-5296405,Operation Bel Isi,23/06/1997,25/07/2003
+99-2169331,Operation Helpem Fren,24/06/2003,26/07/2017
+29-8040695,Operation Vic Fire Assist,25/06/2009,27/07/2009
+18-4438905,Operation Resolute,26/06/2006,Current
+28-7890084,Operation Accordion,27/06/2014,Current
+07-6901359,Operation Aslan,28/06/2011,Current
+74-4624152,Operation Highroad,29/06/2014,31/07/2021
+03-2413259,Operation Augury,30/06/2017,Current
+85-1709849,Operation Astute,01/07/2006,02/08/2013
+51-6950649,Operation Anode,01/07/2003,03/08/2017
+05-8605572,Operation Spitfire,02/07/1999,04/08/1999
+04-2043814,Operation Sumatra Assist,03/07/2004,05/08/2005
+91-2371927,Operation Queensland Flood Assist,04/07/2011,06/08/2011
+92-8510362,Operation Slipper,08/02/2001,14/09/2014
+87-2708254,Operation Catalyst,06/07/2003,08/08/2009
+75-3169262,Operation Mazurka,07/07/1982,Current
+93-8686972,Operation Paladin,08/07/1956,Current
+88-7992294,Operation Solace,09/07/1993,11/08/1995
+74-0751844,Operation Spire,10/07/2004,12/08/2006
+49-7493174,Operation Bel Isi,11/07/1997,13/08/2003
+68-1584432,Operation Helpem Fren,12/07/2003,14/08/2017
+72-2109149,Operation Vic Fire Assist,13/07/2009,15/08/2009
+37-4950112,Operation Resolute,14/07/2006,Current
+62-4092116,Operation Accordion,15/07/2014,Current
+76-3919201,Operation Aslan,16/07/2011,Current
+33-2632314,Operation Highroad,17/07/2014,19/08/2021
+02-1681437,Operation Augury,18/07/2017,Current
+98-1526598,Operation Astute,19/07/2006,21/08/2013
+52-1745052,Operation Anode,20/07/2003,22/08/2017
+87-5034234,Operation Spitfire,21/07/1999,23/08/1999
+64-2025940,Operation Sumatra Assist,22/07/2004,24/08/2005
+54-6093110,Operation Queensland Flood Assist,23/07/2011,25/08/2011
+66-5624684,Operation Slipper,08/02/2001,14/09/2014
+57-9935374,Operation Catalyst,25/07/2003,27/08/2009
+18-5959819,Operation Mazurka,26/07/1982,Current
+18-1521883,Operation Paladin,27/07/1956,Current
+77-7963483,Operation Solace,28/07/1993,30/08/1995
+17-7866323,Operation Spire,29/07/2004,31/08/2006
+77-2386608,Operation Bel Isi,30/07/1997,01/09/2003
+27-8034714,Operation Helpem Fren,31/07/2003,02/09/2017
+71-8185654,Operation Vic Fire Assist,01/08/2009,03/09/2009
+14-7137115,Operation Resolute,02/08/2006,Current
+12-1079782,Operation Accordion,03/08/2014,Current
+20-7272431,Operation Aslan,04/08/2011,Current
+49-8207571,Operation Highroad,05/08/2014,07/09/2021
+35-6875785,Operation Augury,06/08/2017,Current
+41-6868133,Operation Astute,07/08/2006,09/09/2013
+04-0077392,Operation Anode,08/08/2003,10/09/2017
+08-9133883,Operation Spitfire,09/08/1999,11/09/1999
+98-2384604,Operation Sumatra Assist,10/08/2004,12/09/2005
+95-0647151,Operation Queensland Flood Assist,11/08/2011,13/09/2011
+41-1746395,Operation Slipper,08/02/2001,14/09/2014
+04-6084678,Operation Catalyst,13/08/2003,15/09/2009
+96-8860931,Operation Mazurka,14/08/1982,Current
+11-2156352,Operation Paladin,15/08/1956,Current
+96-9275766,Operation Solace,16/08/1993,18/09/1995
+91-5550151,Operation Spire,17/08/2004,19/09/2006
+50-4135381,Operation Bel Isi,18/08/1997,20/09/2003
+51-6278992,Operation Helpem Fren,19/08/2003,21/09/2017
+06-7320797,Operation Vic Fire Assist,20/08/2009,22/09/2009
+01-9382309,Operation Resolute,21/08/2006,Current
+74-3842266,Operation Accordion,22/08/2014,Current
+42-6700628,Operation Aslan,23/08/2011,Current
+76-4973958,Operation Highroad,24/08/2014,26/09/2021
+66-0800417,Operation Augury,25/08/2017,Current
+34-2141144,Operation Astute,26/08/2006,28/09/2013
+38-2311027,Operation Anode,27/08/2003,29/09/2017
+50-0882549,Operation Spitfire,28/08/1999,30/09/1999
+58-1194771,Operation Sumatra Assist,29/08/2004,01/10/2005
+68-4144096,Operation Queensland Flood Assist,30/08/2011,02/10/2011
+17-4016718,Operation Slipper,08/02/2001,14/09/2014
+59-9610865,Operation Catalyst,01/09/2003,03/10/2009
+50-3715653,Operation Mazurka,02/09/1982,Current
+76-1462262,Operation Paladin,03/09/1956,Current
+18-6984842,Operation Solace,04/09/1993,06/10/1995
+58-4643494,Operation Spire,05/09/2004,07/10/2006
+13-4471419,Operation Bel Isi,06/09/1997,08/10/2003
+95-1727415,Operation Helpem Fren,07/09/2003,09/10/2017
+42-0852987,Operation Vic Fire Assist,08/09/2009,10/10/2009
